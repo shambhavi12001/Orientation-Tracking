@@ -86,24 +86,3 @@ For each camera frame:
 - Pixel colors are written to the panorama image
 
 A simple overwrite strategy is used for overlapping pixels.
-
-## Repository Structure
-
-```text
-ECE276A_PR1/
-│
-├── code/
-│   ├── load_data.py
-│   └── rotplot.py
-│
-├── data/
-│   └── README.md
-│
-├── docs/
-│   ├── accelerometer_datasheet_adxl335.pdf
-│   ├── gyroscope_pitch_roll_datasheet_lpr530al.pdf
-│   ├── gyroscope_yaw_datasheet_ly530alh.pdf
-│   ├── IMUandCamSensors.jpg
-│   └── IMU_reference.pdf
-│
-└── ECE276A_PR1.pdf
